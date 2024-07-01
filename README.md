@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/Ro9g-06-27" alt="ADX Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  ADX FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
