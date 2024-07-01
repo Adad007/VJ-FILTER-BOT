@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/Ro9g-06-27.JPG" alt="ADX Logo">
+  <img src="https://telegra.ph/Ro9g-06-27" alt="ADX Logo">
 </p>
 <h1 align="center">
   ADX FILTER BOT
