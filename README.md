@@ -5,7 +5,7 @@
   ADX FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+ADX+Filter+Bot!)
 </p>
 
 ## Main Feature 
