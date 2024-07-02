@@ -1,6 +1,4 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+
 
 
 class script(object):
@@ -303,7 +301,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  </b>""" 
 
     PROGRESS_BAR = """\n
-╭━━━━❰ Tech VJ Renaming... ❱━➣
+╭━━━━❰ ADX Renaming... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
@@ -683,11 +681,11 @@ special Thanks To ❤️ Developers -
 
 -Dev 1 [Owner of this bot ]<a href='https://t.me/adith_mohangtr'>ADX</a>
 
--Dev 2 <a href='https://https://t.me/+kC9W61O8vXU5Mzg1'>ADX</a>
+-Dev 2 <a href='https://t.me/admoviesltd'>ADX</a>
 
--Dev 3 <a href='https://https://t.me/+kC9W61O8vXU5Mzg1>ADX Botz</a>
+-Dev 3 <a href='https://t.me/admoviesltd'>ADX Botz</a>
 
-- Dev 4 <a href='https://https://t.me/+kC9W61O8vXU5Mzg1'>TEAM ADX</a>
+- Dev 4 <a href='https://t.me/admoviesltd'>TEAM ADX</a>
 """
 
     RENAME_TXT = """
@@ -716,10 +714,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 /stream - ɢᴇᴛ sᴛʀᴇᴀᴍᴀʙʟᴇ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅᴀʙʟᴇ ʟɪɴᴋ ᴏғ ᴀɴʏ ғɪʟᴇ</b>"""
 
-
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
 
 
     
