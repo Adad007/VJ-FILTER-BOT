@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![MADS JPG](https://github.com/Adad007/VJ-FILTER-BOT/assets/99092454/2ca5913c-94f7-4f0a-a5fe-393ad5a2d848)" alt="ADX Logo">
+  <img src="https://github.com/Adad007/VJ-FILTER-BOT/assets/99092454/2ca5913c-94f7-4f0a-a5fe-393ad5a2d848" alt="ADX Logo">
 </p>
 <h1 align="center">
   ADX FILTER BOT
